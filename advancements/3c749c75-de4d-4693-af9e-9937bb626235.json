@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-08-18 18:20:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-07-21 07:49:59 -0600"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-07-21 22:45:17 -0600"
@@ -645,7 +657,9 @@
     "criteria": {
       "minecraft:pillager": "2019-07-25 19:03:44 -0600",
       "minecraft:skeleton": "2019-07-21 22:46:19 -0600",
+      "minecraft:ghast": "2019-08-18 18:19:53 -0600",
       "minecraft:vindicator": "2019-07-25 22:30:26 -0600",
+      "minecraft:magma_cube": "2019-08-18 18:09:43 -0600",
       "minecraft:spider": "2019-07-21 04:58:56 -0600",
       "minecraft:creeper": "2019-07-24 12:38:52 -0600",
       "minecraft:phantom": "2019-08-16 16:18:05 -0600",
@@ -658,6 +672,12 @@
       "minecraft:zombie_villager": "2019-07-25 22:32:11 -0600"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -773,9 +793,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-07-21 22:45:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
     },
     "done": true
   },
@@ -965,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2019-07-22 20:41:28 -0600"
@@ -1091,6 +1129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-07-21 04:58:56 -0600"
@@ -1106,6 +1150,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-07-21 05:07:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
     },
     "done": true
   },
@@ -1558,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-07-21 22:45:17 -0600"
@@ -1789,6 +1845,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2019-08-12 12:33:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2019-08-19 15:45:57 -0600"
     },
     "done": true
   },
